@@ -1,4 +1,4 @@
 pet_gjango
 ==========
 
-django test project
+First django test project
